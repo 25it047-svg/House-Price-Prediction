@@ -2,9 +2,9 @@
 
 ## Internship Details
 
-- Intern ID: YOUR_INTERN_ID
+- Intern ID: CITS862
 - Full Name: Kaniyamuthu B
-- No. of Weeks: 4 Weeks
+- No. of Weeks: 6 Weeks
 - Project Name: House Price Prediction Using Machine Learning
 
 ## Project Scope
